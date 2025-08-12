@@ -52,14 +52,6 @@ O bloqueio de MAC funciona criando uma lista de endereços MAC permitidos (white
 
 ### Outras Medidas de Prevenção
 - **Autenticação Avançada**: Combine o bloqueio de MAC com autenticação baseada em certificados ou credenciais (como WPA3 em redes Wi-Fi) para aumentar a segurança.
-- **Monitoramento de Rede**: Utilize ferramentas de monitoramento, como sistemas de detecção de intrusão (IDS), para identificar mudanças anormais17:29:24 -03 12/08/2025
-
-System: Desculpe, parece que o texto foi cortado. Aqui está a continuação do arquivo `README.md` em português, completando a seção de prevenção e adicionando uma conclusão para tornar o documento mais profissional e abrangente:
-
-<xaiArtifact artifact_id="e034ee06-e900-4dc0-8f27-360c3edf6d1c" artifact_version_id="c3892e49-5d46-4637-8078-1a6eb7e3bb10" title="README.md" contentType="text/markdown">
-
-### Outras Medidas de Prevenção
-- **Autenticação Avançada**: Combine o bloqueio de MAC com autenticação baseada em certificados ou credenciais (como WPA3 em redes Wi-Fi) para aumentar a segurança.
 - **Monitoramento de Rede**: Utilize ferramentas de monitoramento, como sistemas de detecção de intrusão (IDS) ou prevenção de intrusão (IPS), para identificar mudanças anormais de endereço MAC ou atividades suspeitas na rede.
 - **Segmentação de Rede**: Implemente VLANs (Virtual Local Area Networks) para isolar dispositivos e limitar o impacto de um possível ataque de MAC spoofing.
 - **Port Security**: Em switches gerenciados, configure a funcionalidade de *port security* para limitar o número de endereços MAC permitidos por porta física, dificultando a introdução de dispositivos não autorizados.
